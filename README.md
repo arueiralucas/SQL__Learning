@@ -1,2 +1,2 @@
-# MySQL__Learning
+# MySQL_Learning
 MySQL Learning
