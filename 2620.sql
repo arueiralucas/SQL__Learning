@@ -53,4 +53,4 @@ ON customers.id = orders.id_customers
 WHERE orders.orders_date BETWEEN '2016-01-01' AND '2016-06-30';
 
 /*the date Y/M/D and half of 2016 is 01/01/2016 at 30/06/2016*/
-*/
+
