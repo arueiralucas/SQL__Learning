@@ -31,5 +31,5 @@ OBS: Você não deve mostrar cidades repetidas.
 /*
 SELECT city
 FROM providers
-ORDER BY city ASC;
+ORDER BY city ASC; 
  */
