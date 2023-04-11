@@ -1,2 +1,2 @@
-# MySQL
-MySQL Learning
+# SQL
+SQL Learning
